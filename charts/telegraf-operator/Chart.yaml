@@ -1,4 +1,4 @@
-apiVersion: v2
+apiVersion: v1
 name: telegraf-operator
 description: A Helm chart for Kubernetes to deploy telegraf-operator
 keywords:
